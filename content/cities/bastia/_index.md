@@ -1,6 +1,6 @@
 ---
 title: Bastia
 url: /bastia/
-latitude: 42.706550500000006
-longitude: 9.452542000000001
+latitude: 42.7008676
+longitude: 9.451286600000001
 ---
