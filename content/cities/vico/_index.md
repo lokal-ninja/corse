@@ -1,6 +1,6 @@
 ---
 title: Vico
 url: /vico/
-latitude: 42.1661203
-longitude: 8.7957937
+latitude: 42.114
+longitude: 8.701
 ---

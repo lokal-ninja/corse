@@ -1,6 +1,6 @@
 ---
 title: Santa-Maria-Poggio
 url: /santa-maria-poggio/
-latitude: 
-longitude: 
+latitude: 42.351
+longitude: 9.532
 ---

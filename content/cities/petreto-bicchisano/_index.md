@@ -1,6 +1,6 @@
 ---
 title: Petreto Bicchisano
 url: /petreto-bicchisano/
-latitude: 
-longitude: 
+latitude: 41.788
+longitude: 8.977
 ---

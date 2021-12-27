@@ -1,6 +1,6 @@
 ---
 title: Borgo
 url: /borgo/
-latitude: 42.5541524
-longitude: 9.4277361
+latitude: 42.551
+longitude: 9.442
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ghisonaccia
 url: /ghisonaccia/
-latitude: 42.0149385
-longitude: 9.40536
+latitude: 42.018
+longitude: 9.403
 ---

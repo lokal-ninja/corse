@@ -1,6 +1,6 @@
 ---
 title: Pigna
 url: /pigna/
-latitude: 42.5989942
-longitude: 8.9029386
+latitude: 42.6
+longitude: 8.903
 ---

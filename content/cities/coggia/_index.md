@@ -1,6 +1,6 @@
 ---
 title: Coggia
 url: /coggia/
-latitude: 
-longitude: 
+latitude: 42.114
+longitude: 8.703
 ---

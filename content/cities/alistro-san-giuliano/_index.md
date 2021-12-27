@@ -1,6 +1,6 @@
 ---
 title: Alistro, San-Giuliano
 url: /alistro-san-giuliano/
-latitude: 
-longitude: 
+latitude: 42.255
+longitude: 9.546
 ---
