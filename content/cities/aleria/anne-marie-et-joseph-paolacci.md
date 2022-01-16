@@ -1,5 +1,5 @@
 ---
-title: "Anne-Marie et Joseph PAOLACCI"
+title: "Anne-Marie et Joseph Paolacci"
 url: /aleria/anne-marie-et-joseph-paolacci/
 shop: ferme
 ---
