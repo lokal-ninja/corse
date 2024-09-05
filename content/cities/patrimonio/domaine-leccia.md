@@ -1,5 +1,5 @@
 ---
 title: "Domaine Leccia"
 url: /patrimonio/domaine-leccia/
-shop: vin
+shop: Wein
 ---

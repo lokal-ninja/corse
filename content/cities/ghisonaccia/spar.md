@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ghisonaccia/spar/
-shop: supermarché
+shop: Supermarkt
 ---
