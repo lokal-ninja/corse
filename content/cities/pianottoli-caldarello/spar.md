@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /pianottoli-caldarello/spar/
-shop: Supermarkt
+shop: supermarché
 ---

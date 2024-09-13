@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /sarrola-carcopino/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

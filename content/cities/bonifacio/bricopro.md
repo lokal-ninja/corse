@@ -1,5 +1,5 @@
 ---
 title: "Bricopro"
 url: /bonifacio/bricopro/
-shop: Baumarkt
+shop: à faire soi-même
 ---

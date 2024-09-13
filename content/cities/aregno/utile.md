@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /aregno/utile/
-shop: Lebensmittel
+shop: commodité
 ---

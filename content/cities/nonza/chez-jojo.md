@@ -1,5 +1,5 @@
 ---
 title: "Chez Jojo"
 url: /nonza/chez-jojo/
-shop: Lebensmittel
+shop: commodité
 ---
