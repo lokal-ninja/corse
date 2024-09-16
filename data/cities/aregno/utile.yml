@@ -1,11 +1,11 @@
 id: 1273449034
-type: way
+type: node
 latitude: 42.60768
 longitude: 8.87216
 postcode: "20220"
 city: Aregno
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:30-20:30"
+opening_hours: Mo-Su 08:30-20:30
 website: ""

@@ -1,11 +1,11 @@
 id: 1218532547
-type: way
+type: node
 latitude: 41.95708
 longitude: 8.80079
 postcode: "20167"
 city: Sarrola-Carcopino
-street: "Rn 194 - Zi de baléone"
-housenumber: 
-phone: "+33 4 95 10 44 29"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://magasins.picard.fr/13-picard-ajaccio"
+street: Rn 194 - Zi de baléone
+housenumber: ""
+phone: +33 4 95 10 44 29
+opening_hours: Mo-Sa 09:00-19:00
+website: https://magasins.picard.fr/13-picard-ajaccio

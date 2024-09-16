@@ -1,11 +1,11 @@
 id: 314116188
-type: way
+type: node
 latitude: 42.01336
 longitude: 9.4036
 postcode: "20240"
 city: Ghisonaccia
-street: "Avenue du 9 Septembre"
-housenumber: 455
+street: Avenue du 9 Septembre
+housenumber: "455"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://magasins.spar.fr/fr/spar-supermarche-ghisonaccia"
+opening_hours: Mo-Su 08:00-20:00
+website: https://magasins.spar.fr/fr/spar-supermarche-ghisonaccia
