@@ -1,6 +1,6 @@
 ---
 title: Sarrola-Carcopino
 url: /sarrola-carcopino/
-latitude: 41.957
-longitude: 8.801
+latitude: 41.954
+longitude: 8.796
 ---
