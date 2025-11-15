@@ -1,6 +1,6 @@
 ---
 title: Ajaccio
 url: /ajaccio/
-latitude: 41.918
-longitude: 8.73
+latitude: 41.93
+longitude: 8.739
 ---
