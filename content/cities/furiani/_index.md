@@ -1,6 +1,6 @@
 ---
 title: Furiani
 url: /furiani/
-latitude: 42.652
-longitude: 9.443
+latitude: 42.653
+longitude: 9.442
 ---
