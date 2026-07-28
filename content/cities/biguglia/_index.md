@@ -1,6 +1,6 @@
 ---
 title: Biguglia
 url: /biguglia/
-latitude: 42.628
-longitude: 9.431
+latitude: 42.594
+longitude: 9.437
 ---
