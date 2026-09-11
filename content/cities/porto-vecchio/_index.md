@@ -1,6 +1,6 @@
 ---
-title: Porto Vecchio
+title: Porto-Vecchio
 url: /porto-vecchio/
-latitude: 41.567
-longitude: 9.275
+latitude: 41.612
+longitude: 9.28
 ---
