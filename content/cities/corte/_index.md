@@ -1,6 +1,6 @@
 ---
 title: Corte
 url: /corte/
-latitude: 42.301
-longitude: 9.158
+latitude: 42.307
+longitude: 9.151
 ---
